@@ -1,7 +1,7 @@
 ## Student 1
 
-- Name: <Enter your name here>
-- Email: <Enter your email id here>
-- Institute: <Enter institute you are studying>
-- Github Handle: <Enter your github handle>
-- Mentor Name: <Enter your mentor's name here>
+- Name: Shreya
+- Email: shreyateeza@gmail.com
+- Institute: Netaji Subhas Institute of Technology
+- Github Handle: shreyateeza
+- Mentor Name: Saptak Sengupta
