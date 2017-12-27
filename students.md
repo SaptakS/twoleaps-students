@@ -1,7 +1,7 @@
-## Student 1
+## Student 2
 
-- Name: Shreya
-- Email: shreyateeza@gmail.com
-- Institute: Netaji Subhas Institute of Technology
-- Github Handle: shreyateeza
+- Name: Samrat Shekhar    
+- Email: samratshekhar@gmail.com
+- Institute: Amity University, Noida
+- Github Handle: Samx13
 - Mentor Name: Saptak Sengupta
